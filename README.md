@@ -23,12 +23,12 @@ Another easy and unique method to convert python to exe file is a Python utility
 #### Download
 Download the Repository through Clone Repository or Download Zip
 ```
-git clone https://github.com/riyanardyanto/cs50-final-project.git
+git clone https://github.com/riyanardyanto/cs50p-final-project.git
 ```
 #### Installation
 After download, go to `cmd` and navigate to the project folder directory.
 ```
-cd cs50-final-project
+cd cs50p-final-project
 ``` 
 Next, create virtual environment.
 ```
@@ -57,9 +57,9 @@ auto-py-to-exe
 ```
 After successfully running the program, it will generate exe file in output folder. 
 
-![exe file output](https://raw.githubusercontent.com/riyanardyanto/cs50-final-project/main/output_file.png)
+![exe file output](https://raw.githubusercontent.com/riyanardyanto/cs50p-final-project/main/output_file.png)
 
 The Program output will be like this:
 
-![App Image](https://raw.githubusercontent.com/riyanardyanto/cs50-final-project/main/app%20image.png)
+![App Image](https://raw.githubusercontent.com/riyanardyanto/cs50p-final-project/main/app%20image.png)
 
