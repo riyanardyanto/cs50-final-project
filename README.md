@@ -1,6 +1,6 @@
 # Desktop App: Breakdown Dashboard
 
-## [Video Demo](https://youtu.be/suFbsJLzZP4)
+## [Video Demo](https://youtu.be/8iJwETQQHpU)
 
 ### Description:
 This application is a desktop application (standalone exe) used to display data from machine breakdown reports extracted from excel files. The extracted data is in the form of breakdown information, countermeasures, owners and when the task must be completed. This application can monitor whether the task has been completed or not.
